@@ -1,0 +1,15 @@
+{
+    "name": "archersys/wp-bird",
+    "description": "Wordpress BIRD Plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ArcherSys Foundation",
+            "email": "acosf2014.pdflint@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}

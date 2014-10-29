@@ -1,0 +1,22 @@
+li.togetherjs-button-container > div {
+	padding: 0 !important;
+}
+
+a.bird-button {
+	color: #ffffff !important;
+	background-color: red !important;
+}
+
+a.bird-button:hover {
+	background-color: blue !important;
+}
+
+a.bird-button.togetherjs-ready {
+	background-color: green !important;
+}
+
+a.bird-button.togetherjs-ready:hover {
+	background-color: yellow !important;
+}
+
+
