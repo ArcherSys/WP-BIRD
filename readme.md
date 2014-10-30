@@ -1,12 +1,12 @@
 WP BIRD 
 ======
-Contributors: acoking
-Tags: realtime, together, togetherjs, browsing, javascript, collaboration
-Requires at least: 3.3
-Tested up to: 3.6.1
-Stable tag: 1.0.1
-License: MIT
-License URI: http://opensource.org/licenses/MIT
+## Contributors: acoking
+## Tags: realtime, together, togetherjs,bird browsing, javascript, collaboration
+## Requires at least: 3.3
+## Tested up to: 4.0.0
+## Stable tag: 1.0.1
+## License: MIT
+## License URI: http://opensource.org/licenses/MIT
 
 Easily integrate Mozilla's TogetherJS collaboration system into a Wordpress site.
 
