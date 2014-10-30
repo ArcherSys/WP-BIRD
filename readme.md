@@ -1,4 +1,5 @@
-=== WP BIRD ===
+WP BIRD 
+======
 Contributors: acoking
 Tags: realtime, together, togetherjs, browsing, javascript, collaboration
 Requires at least: 3.3
