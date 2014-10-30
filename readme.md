@@ -10,7 +10,7 @@ WP BIRD
 
 Easily integrate Mozilla's TogetherJS collaboration system into a Wordpress site.
 
-== Description ==
+ # Description 
 
 WP BIRD is a plugin that adds [Mozilla's TogetherJS](https://togetherjs.com/) system into an existing Wordpress site. A TogetherJS button will be added to the Admin Toolbar, which activates TogetherJS when clicked. This allows simple cooperative browsing with just the click of a button using a shared link.
 
