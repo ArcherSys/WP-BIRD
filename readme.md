@@ -34,5 +34,5 @@ Changelog
 =====
 
 1.0 
-====
+##
 * First version with the ability to start and end BIRD sessions via the admin toolbar.
